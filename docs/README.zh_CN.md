@@ -39,7 +39,9 @@ Pasteburn 被设计来搭建自己的分享平台，并用于小圈子分享信�
 推荐的方式是使用 [docker image](https://hub.docker.com/r/pasteburn/pasteburn)。
 
 ```shell
-docker run -p 3000:3000 pasteburn/pasteburn
+docker run -v /path/to/data:/app/data -p 3000:3000 pasteburn/pasteburn
+# or
+docker run -e PASTEBURN_USE_MEMORY_DB=true -p 3000:3000 pasteburn/pasteburn
 ```
 
 你也可以参考 [Next.js的部署](https://nextjs.org/docs/deployment)。
