@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.0.2 (2022-11-09)
+
+
+### Features
+
+* init ([822ba28](https://github.com/pasteburn/pasteburn/commit/822ba28829855acb01d5b248dd3aba1ae5081bcc))
+
+
+### Miscellaneous Chores
+
+* release 2.0.2 ([26adb25](https://github.com/pasteburn/pasteburn/commit/26adb2506d250b625bf96d8f71e26e771fb82db4))
+
 ## [2.0.1](https://github.com/pasteburn/pasteburn/compare/v2.0.0...v2.0.1) (2022-11-09)
 
 
