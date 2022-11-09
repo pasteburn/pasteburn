@@ -77,6 +77,9 @@ function Create() {
         <Image
           src="/salamander.png"
           alt="Pasteburn Logo"
+          title="Logo, made from
+            Icon Fonts, which
+            is licensed by CC BY 3.0"
           width={256}
           height={64}
           className="mx-auto"
@@ -143,14 +146,6 @@ function Create() {
           </Tab>
         </Tabs>
       )}
-
-      <footer className="m-4 cursor-default">
-        <p className={"text-center text-gray-400 text-xs font-serif"}>
-          Favicon made from{" "}
-          <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a>
-          is licensed by CC BY 3.0
-        </p>
-      </footer>
     </div>
   );
 }
