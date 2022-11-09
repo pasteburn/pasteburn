@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/pasteburn/pasteburn/compare/v2.0.3...v2.1.0) (2022-11-09)
+
+
+### Features
+
+* block bots based on ua ([4e431ba](https://github.com/pasteburn/pasteburn/commit/4e431bac94717d94b39989391bf0b544a3bc90c7))
+
 ## [2.0.3](https://github.com/pasteburn/pasteburn/compare/v2.0.2...v2.0.3) (2022-11-09)
 
 
