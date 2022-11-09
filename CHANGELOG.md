@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/pasteburn/pasteburn/compare/v2.0.2...v2.0.3) (2022-11-09)
+
+
+### Bug Fixes
+
+* style tweak ([37c52bd](https://github.com/pasteburn/pasteburn/commit/37c52bd5b17f8e61bddcc72efc6bc8d4eb338726))
+
 ## 2.0.2 (2022-11-09)
 
 
