@@ -62,7 +62,7 @@ function Create() {
         return;
       }
       const ret: CreatePasteResponse = await resp.json();
-      const url = new URL(`./${ret.id}#${password}`, window.location.href);
+      const url = new URL(`./${ret.id}#${encodeURIComponent(password)}`, window.location.href);
       setResultUrl(url.href);
       setCookie(ret.id, ret.token, {
         maxAge: sunset.time,
