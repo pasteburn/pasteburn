@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/pasteburn/pasteburn/compare/v2.1.0...v2.1.1) (2022-11-12)
+
+
+### Bug Fixes
+
+* urlencode/decode password ([#4](https://github.com/pasteburn/pasteburn/issues/4)) ([8acb6ec](https://github.com/pasteburn/pasteburn/commit/8acb6ec06e8dbb35ec4f0a239535a8c0d32b680d))
+
 ## [2.1.0](https://github.com/pasteburn/pasteburn/compare/v2.0.3...v2.1.0) (2022-11-09)
 
 
