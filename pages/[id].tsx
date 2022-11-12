@@ -35,7 +35,7 @@ export default function Message(props: MessageProps) {
 
   useEffect(() => {
     if (pass == null) {
-      setPass(window.location.hash.slice(1));
+      setPass(decodeURIComponent(location.hash.slice(1)));
       return;
     }
 
